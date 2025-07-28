@@ -27,7 +27,7 @@ stationen <- data.frame(
     "Mit dir sehen wir die Welt von oben – du gibst uns Weitblick und Vertrauen. Dafür danken wir dir sehr.",
     "Mit dir macht selbst ein Spaziergang durch eine Einkaufsstraße Spaß. Danke für deine Energie.",
     "Wie Nyhavn bringst du Farbe und Wärme in unser Leben. Wir lieben nicht durch deine Shoppinglust, sondern auch deine Herzlichkeit.",
-    "Du bist für uns wie eine Mama-Königin – stark, würdevoll, und doch ganz nahbar. Und dabei bist du stets beschützend und weichst und niemals von der Seite.",
+    "Du bist für uns wie eine Mama-Königin – stark, würdevoll, und doch ganz nahbar. Und dabei bist du stets beschützend und weichst uns niemals von der Seite.",
     "Du bist für uns wie ein Fels in der Brandung. Du strahlst Ruhe aus und zeigst uns was bedingungslose Liebe bedeutet – genau wie die kleine Meerjungfrau hier vor dir."
   ),
   symbol = c("🏡", "🏰", "🔭", "🛍️", "⚓", "👑", "🧜‍♀️"),
