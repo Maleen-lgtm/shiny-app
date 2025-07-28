@@ -13,8 +13,7 @@ stationen <- data.frame(
     "Kleine Meerjungfrau"
   ),
   ort_info = c(
-    "Hier beginnt unser kleines Abenteuer – Es ist zwar nicht unser Zuhause, aber unser süßes kleines Airbnb, bzw. in der Nähe davon, weil ich Google nicht unseren direkten 
-    Aufenthaltsort mitteilen wollte. Denn letztendlich kommt es nicht darauf an, wo unser Zuhause ist, sondern wo wir uns wie Zuhause fühlen. Und wir fühlen uns bei dir Zuhause 💛",
+    "Hier beginnt unser kleines Abenteuer – Es ist zwar nicht unser Zuhause, aber unser süßes kleines Airbnb, bzw. in der Nähe davon, weil ich Google nicht unseren direkten Aufenthaltsort mitteilen wollte. Denn letztendlich kommt es nicht darauf an, wo unser Zuhause ist, sondern wo wir uns wie Zuhause fühlen. Und wir fühlen uns bei dir Zuhause 💛",
     "Rosenborg ist ein märchenhaftes Schloss mit einem wunderschönen Park – mitten in der Stadt.",
     "Der Runde Turm ist berühmt für seine spiralförmige Rampe und den Blick über ganz Kopenhagen.",
     "Strøget ist eine der längsten Einkaufsstraßen Europas – voller Leben, Menschen und Geschichten.",
