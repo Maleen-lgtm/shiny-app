@@ -23,8 +23,7 @@ stationen <- data.frame(
   ),
   mama_liebe = c(
     "Ein Zuhause kann so vieles bedeuten und sein. Danke, dass du uns immer ein Zuhause gibst – egal wo wir sind, mit dir fühlt sich alles an wie Zuhause.",
-    "Mama, du hast so viel Klasse und Herzlichkeit – wie ein Schloss voller schöner Erinnerungen. Du sammelst nicht nur Erfahrungen für dich alleine, sondern 
-    teilst sie mit uns und lässt uns an all den schönen Dingen in deinem Leben teilhaben.",
+    "Mama, du hast so viel Klasse und Herzlichkeit – wie ein Schloss voller schöner Erinnerungen. Du sammelst nicht nur Erfahrungen für dich alleine, sondern teilst sie mit uns und lässt uns an all den schönen Dingen in deinem Leben teilhaben.",
     "Mit dir sehen wir die Welt von oben – du gibst uns Weitblick und Vertrauen. Dafür danken wir dir sehr.",
     "Mit dir macht selbst ein Spaziergang durch eine Einkaufsstraße Spaß. Danke für deine Energie.",
     "Wie Nyhavn bringst du Farbe und Wärme in unser Leben. Wir lieben nicht durch deine Shoppinglust, sondern auch deine Herzlichkeit.",
